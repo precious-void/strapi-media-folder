@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sections_sections",
+  "info": {
+    "name": "Section",
+    "icon": "allergies",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "SectionTitle": {
+      "type": "string"
+    },
+    "link": {
+      "model": "links"
+    }
+  }
+}

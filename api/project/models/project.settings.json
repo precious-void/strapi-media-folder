@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "projects",
+  "info": {
+    "name": "Project",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "FeaturedProject": {
+      "type": "component",
+      "repeatable": false,
+      "component": "sections.featured-project"
+    }
+  }
+}

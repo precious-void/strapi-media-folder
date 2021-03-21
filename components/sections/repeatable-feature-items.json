@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sections_repeatable_feature_items",
+  "info": {
+    "name": "RepeatableFeatureItems",
+    "icon": "arrow-alt-circle-up",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "asdasd": {
+      "type": "string"
+    },
+    "project": {
+      "model": "project"
+    }
+  }
+}

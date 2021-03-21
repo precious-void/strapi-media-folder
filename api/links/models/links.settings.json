@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "links",
+  "info": {
+    "name": "Links",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "LinksList": {
+      "type": "component",
+      "repeatable": true,
+      "component": "sections.links-list"
+    }
+  }
+}

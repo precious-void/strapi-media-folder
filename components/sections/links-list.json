@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sections_links_lists",
+  "info": {
+    "name": "LinksList",
+    "icon": "ambulance",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Link": {
+      "type": "string"
+    }
+  }
+}

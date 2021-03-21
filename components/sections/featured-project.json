@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_sections_featured_projects",
+  "info": {
+    "name": "FeaturedProject",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "RepeatableFeatureItems": {
+      "type": "component",
+      "repeatable": true,
+      "component": "sections.repeatable-feature-items"
+    }
+  }
+}
