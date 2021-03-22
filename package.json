@@ -33,7 +33,7 @@
     "strapi-plugin-graphql": "^3.5.3",
     "strapi-plugin-upload": "^3.5.3",
     "strapi-plugin-users-permissions": "^3.5.3",
-    "strapi-provider-upload-local": "file:providers/strapi-provider-upload-local",
+    "strapi-provider-upload-local": "^3.5.3",
     "strapi-utils": "^3.5.3"
   },
   "engines": {
